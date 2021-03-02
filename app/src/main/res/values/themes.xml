@@ -32,4 +32,5 @@
     <style name="Theme.AndroidDevChallenge.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.AndroidDevChallenge.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
 </resources>
