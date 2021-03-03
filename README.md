@@ -1,8 +1,8 @@
 # Put title of your app here
-
+Pet app
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/<Wiktorl4z>/<dev-challenge>/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
@@ -15,7 +15,7 @@ First project in Jetpack Compose!
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="https://github.com/Wiktorl4z/dev-challenge/blob/week1_bark/results/screenshot_1.jpg" width="260">&emsp;<img src="https://github.com/Wiktorl4z/dev-challenge/blob/week1_bark/results/screenshot_2.jpg" width="260">
 
 ## License
 ```
